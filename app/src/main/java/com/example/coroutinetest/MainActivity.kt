@@ -10,6 +10,11 @@ import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
 
 class MainActivity : AppCompatActivity() {
+    
+    /**
+    @auther Ali_Assalem
+    4/23/2022
+    */
 
     lateinit var binding : ActivityMainBinding
 
